@@ -17,6 +17,6 @@ Performance: Standardized Data with IRM,IBM and FFT-Mask performed good.
 
 File Description: 
 
-1. Input Data Generation notebook: Creating Training Data (Created 9 training examples from original training example using three noise signals (3) and combining with every clean speech (1000) at desired signal to noise ratio of -3,0,3 db (3). (Thus, 3*1000*3=9000 training examples))
+1. Input Data Generation notebook: Creating Training Data (Created 9 training examples from original training example using three noise signals (3) and combining with every clean speech (1000) at desired signal to noise ratio of -3,0,3 db (3). (Thus, 3\*1000\*3=9000 training examples))
 2. Data Preprocessing Notebook: Preparing Standardized and Normalized Data. 
 3. Speech_Enhancement Notebook: All Deep Neural Network trained and tested here. 

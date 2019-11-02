@@ -9,7 +9,7 @@ Input Data is Standardized and Normalized. For each of these, we have 4 Target L
 Thus, in all we have 8 Deep Neural Networks in total. 4 [ Standardized Data (4 Target Labels) ] + 4 [ Normalized Data (4 Target Labels) ] 
 
 **Input Data** : Noisy Speech
-    #### Input Data Generation Jupyter Notebook
+    Input Data Generation Jupyter Notebook
     How Noisy Data was prepared?
     For 1 clean speech: There were 3 noisy speeches and for each noisy speech, we combined that noisy speech with clean speech at 3           different desired db level (-3db,0db,3db)
 
